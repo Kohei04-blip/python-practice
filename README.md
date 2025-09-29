@@ -9,3 +9,6 @@ python task1.py
 -csvファイルを作成し、合計金額を表示する
 -ファイル：task3.py
 -writer.writeheader()の記入漏れにより、keyerror発生
+## 2025-09-29
+-リスト内で偶数のみを表示した
+-偶数の表示は n%2 =0 で表す
