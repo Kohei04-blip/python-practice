@@ -30,4 +30,6 @@ python task1.py
 -try/exceptの基本操作
 ## 2025-10-18
 -エラー内容の取得
+## 2025-10-19
+-UnicodeDecodeError再現
 
