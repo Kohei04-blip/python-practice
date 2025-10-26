@@ -32,4 +32,6 @@ python task1.py
 -エラー内容の取得
 ## 2025-10-19
 -UnicodeDecodeError再現
+## 2025-10-26
+-文字コード再試行実装
 
